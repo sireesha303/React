@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.destination-name {
+    color: black;
+    font-size: 25px;
+    margin: 8px;
+    font-weight: bold;
+  }
+  
+  .destination-bg-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin:10px;
+  }
+  
+  .img {
+    width: 500px;
+    height: 350px;
+    border-radius: 8px;
+    margin: 10px;
+  }
+  
